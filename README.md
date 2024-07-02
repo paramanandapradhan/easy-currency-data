@@ -22,7 +22,7 @@ import EasyCurrencyData from "@cloudparker/easy-currency-data@1.0.0";
 
 EasyCurrencyData.getCurrencies();
 // Return list of currency data 
-// [ { cosw: "EUR",  symbol: "€",  name: "Euro"}, ... ]
+// [ { code: "EUR",  symbol: "€",  name: "Euro"}, ... ]
 
 ```
 
@@ -32,6 +32,6 @@ EasyCurrencyData.getCurrencies();
 
 EasyCurrencyData.getCurrencies();
 // Return list of currency data 
-// [ { cosw: "EUR",  symbol: "€",  name: "Euro"}, ... ]
+// [ { code: "EUR",  symbol: "€",  name: "Euro" }, ... ]
 
 ```
